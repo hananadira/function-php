@@ -22,7 +22,7 @@
         return "Hallo, selamat siang $name";
    }
 
-   echo register();
+   echo register("Satya");
    echo "<br>";
 ?>
 <?php 
